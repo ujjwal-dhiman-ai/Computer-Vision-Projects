@@ -6,3 +6,4 @@
 1. opencv
 2. pyautogui
 3. numpy
+4. pafy
